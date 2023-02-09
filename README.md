@@ -52,6 +52,23 @@ The script is rerun. This time, the output changes due to the new listening port
 <br />
 <br />
 
+<h2>Combining Crontab with the Script:</h2>
+The Crontab tool is installed by first using apt update:<br/>
+<img src="https://imagizer.imageshack.com/img922/864/5i75Rz.png"
+<br />
+<br />
+Apt install Crontab is executed:<br/>
+<img src="https://imagizer.imageshack.com/img923/9764/Idwxoa.png"
+<br />
+<br />
+Crontab -e is ussed and the nano text editor is selected:<br/>
+<img src="https://imagizer.imageshack.com/img924/690/QfckO0.png"
+<br />
+<br />
+The following line is added at the bottom of the script to ensure that CheckPortListen.sh will run every five minutes:<br/>
+<img src="https://imagizer.imageshack.com/img924/9273/Yv7euh.png"
+<br />
+<br />
 
 <!--
  ```diff
