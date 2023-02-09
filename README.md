@@ -61,7 +61,7 @@ Apt install Crontab is executed:<br/>
 <img src="https://imagizer.imageshack.com/img923/9764/Idwxoa.png"
 <br />
 <br />
-Crontab -e is ussed and the nano text editor is selected:<br/>
+Crontab -e is used and the nano text editor is selected:<br/>
 <img src="https://imagizer.imageshack.com/img924/690/QfckO0.png"
 <br />
 <br />
